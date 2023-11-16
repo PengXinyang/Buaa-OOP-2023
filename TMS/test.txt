@@ -1,0 +1,11 @@
+register 047417901855 Alice_Smith M1_@%i4@%$_%n M1_@%i4@%$_%n Merchant
+register 046418112296 aamofe Y0$_5ujbis Y0$_5ujbis Merchant
+register 217918521598 Emily_Wang Y0@kig8@4 Y0@kig8@4 Customer
+register 106317921260 Sophia_Lee adddh7hhh@ adddh7hhh@ Customer
+register 000117861001 John_Doe adddh7hhh@ adddh7hhh@ Administrator
+register 447018252000 John_Doa adddh7hhh@ adddh7hhh@ Merchant
+login 047417901855 M1_@%i4@%$_%n
+registerShop Trendy_Boutique
+registerShop MegaMart
+registerShop BrewHub
+registerShop FitFoods
